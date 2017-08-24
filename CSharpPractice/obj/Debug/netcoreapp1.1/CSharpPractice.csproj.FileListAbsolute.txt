@@ -1,0 +1,9 @@
+D:\PROJECT\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp1.1\CSharpPractice.deps.json
+D:\PROJECT\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp1.1\CSharpPractice.runtimeconfig.json
+D:\PROJECT\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp1.1\CSharpPractice.runtimeconfig.dev.json
+D:\PROJECT\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp1.1\CSharpPractice.dll
+D:\PROJECT\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp1.1\CSharpPractice.pdb
+D:\PROJECT\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp1.1\CSharpPractice.csprojResolveAssemblyReference.cache
+D:\PROJECT\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp1.1\CSharpPractice.AssemblyInfo.cs
+D:\PROJECT\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp1.1\CSharpPractice.dll
+D:\PROJECT\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp1.1\CSharpPractice.pdb
